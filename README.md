@@ -1,8 +1,6 @@
 # Webbutveckling III
 
-## Projektuppgift 
-
-### REST-webbtjänst 
+Projektuppgift - REST-webbtjänst 
 
 ***
 
