@@ -1,10 +1,10 @@
 <?php
 
 class Database {
-    private $host = 'localhost';
-    private $db_name = 'emmlan_portfolio';
-    private $db_username = 'emmlan';
-    private $db_password = 'rt41MAoi0';
+    private $host = '';
+    private $db_name = '';
+    private $db_username = '';
+    private $db_password = '';
 
     public function connect() {
         try {
